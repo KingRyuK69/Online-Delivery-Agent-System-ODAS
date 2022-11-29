@@ -11,7 +11,7 @@ Tracking, Shipping, Rate and Transit Times.
 Tools Used:
 
 **Frontend** : **```HTML, CSS, JavaScript```**
-**Backend** : **```MySQL, PHP```** (First Response time⏰: 30sec approximately)
+**Backend** : **```MySQL, PHP```** (First Response time⏰: 3sec approximately)
 
 # Prerequisits:
 

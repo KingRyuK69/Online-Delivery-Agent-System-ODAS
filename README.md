@@ -31,14 +31,23 @@ Screenshots:
 Features:
 
 • The system supports customers’ orders and able to modify the dates and the location accordingly
+
 • Customers can select and sort services based on date and destination
+
 • Customers can change/modify location and date for receiving their product
+
 • Company staffs are able to edit/modify customers’ orders placed with them and give them a suitable slot according to their   convenience
+
 • Customers can pay for the delivery online, with credit or debit card
+
 • The system must send delivery confirmation email after successful payment/registration
+
 • Customers can write reviews about the service provided, about customer care service and even about the delivery
+
 • Customers able to check their order status from their individual account
+
 • Customers can send feedback or call the company for order details in case of server failure or discrepancies
+
 • Customers can check for latest promotion or deals
 
 ## **Do 🌟 & fork the Repo if you find it useful**

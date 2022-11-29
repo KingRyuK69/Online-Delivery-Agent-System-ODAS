@@ -13,7 +13,7 @@ Tools Used:
 **Frontend** : **```HTML, CSS, JavaScript```**
 **Backend** : **```MySQL, PHP```** (First Response time⏰: 3sec approximately)
 
-# Prerequisits:
+# Prerequisites:
 
 ```Install XAMPP```
 
